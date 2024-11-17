@@ -13,9 +13,7 @@ pip install PyQt6
 사진 저장 시 파일 유형 함께 작성 필요.
 
 
-[예시 이미지]
-
-!(https://github.com/phjjjjj/computer_vision/blob/main/6_6/example.jpg)
+![예시 이미지](https://github.com/phjjjjj/computer_vision/blob/main/6_6/example.jpg)
 
 ---
 
