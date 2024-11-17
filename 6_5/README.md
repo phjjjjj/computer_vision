@@ -33,3 +33,11 @@ pip install PyQt6
 - 가상환경 6_5 사용.
 
 ---
+
+#### 코드 작성
+
+- 가상환경 켜기
+
+```
+conda env create --file ./environment.yaml
+```
