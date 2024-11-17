@@ -10,6 +10,8 @@ pip install PyQt6
 
 연결되는 사진을 여러 장 촬영 후 파노라마 사진을 제작하는 프로그램.
 
+![예시 사진](https://github.com/phjjjjj/computer_vision/blob/main/6_5/outputs/example.jpg)
+
 파노라마 사진을 흑백 사진으로 변환하는 버튼 추가.
 
 사진 저장 시 파일 유형 함께 작성 필요.
