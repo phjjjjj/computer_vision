@@ -15,7 +15,7 @@ pip install PyQt6
 
 [예시 이미지]
 
-(https://github.com/phjjjjj/computer_vision/blob/main/6_6/example.jpg)
+!(https://github.com/phjjjjj/computer_vision/blob/main/6_6/example.jpg)
 
 ---
 
